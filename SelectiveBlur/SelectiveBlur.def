@@ -1,0 +1,3 @@
+LIBRARY SelectiveBlur
+EXPORTS 
+SelectiveBlur @1
